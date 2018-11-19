@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    overflow: scroll;
+    height: 2000px;
+}
+.supreet{
+    text-align: center;
+    background-color: white;
+
+}
+.kaur{
+    border: 4px dotted blue;
+    padding: 35px 11px 9px 220px;
+    color: white;
+    width: 400px;
+    height: 50px;
+    margin-left: 350px;
+    margin-top:65px;
+    margin-right: 250px;
+    margin-bottom: 30px;
+   
+    
+}
+.small-box{
+
+    
+    color: white;
+    background-color: green;
+    text-align: center;
+    margin-left:600px;
+    margin-top: 40px;
+    width:160px;
+    height:30px;
+    padding:20px;
+}
+.big-box{
+    background-color: red;
+    height: 160px;
+    margin-top: 150px;
+    
+}
